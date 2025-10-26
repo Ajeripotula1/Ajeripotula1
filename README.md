@@ -1,46 +1,80 @@
-# Hi, I'm Akshayraj 👋  
-**Software Engineer | Fullstack Development • AI Systems • Cloud**
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="typing animation"/>
+</p> -->
 
-I like solving real problems, learning new skills, and shipping high quality applications.
-
----
-
-### 🔹 About Me  
-- 🎓 B.S. Computer Engineering — **UC Santa Cruz**
-- 💼 Software Engineer @ **Suno Analytics**
-- Previously **AI/ML Engineer** @ Data Safeguard Inc.
-- Focused on **backend systems, AI agent workflows, and cloud deployments**
+<h1 align="center" style="color:#00FFDD; text-shadow: 0 0 5px #00FFDD, 0 0 10px #00FFDD;">Hi, I'm Akshayraj 👋</h1>
+<h3 align="center" style="color:#FFD700; text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700;">
+Software Engineer | Fullstack Development • AI Systems • Cloud
+</h3>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks:** React, Next.js, Node.js, Express.js, Django, FastAPI  
-**AI & Agents:** Strands Agents, AgentCore Runtime, LangChain, spaCy NLP  
-**Databases:** PostgreSQL, ChromaDB  
-**Cloud:** AWS (EC2, RDS, S3, Secrets Manager), Docker  
-**Certifications:** AWS Certified Cloud Practitioner, AWS Certified AI Practitioner
+<p align="center">
+  <em style="color:#AAAAAA;">I enjoy solving real-world problems, learning new skills, and shipping high quality applications.
+</em>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### About Me
+- 🎓 **B.S. Computer Engineering** — UC Santa Cruz  
+- 💼 Software Engineer @ **Suno Analytics**  
+- Previously AI/ML Engineer @ Data Safeguard Inc.  
+- Focus: **Backend, AI agents, Cloud & Scalable Systems**  
 
-#### **FitAgent** — AWS AI Agent Global Hackathon 2025
-A full-stack fitness coaching platform that generates **personalized workout + meal plans** using agentic AI.  
-- **React + FastAPI + PostgreSQL**
-- AI powered by **AWS Bedrock + AgentCore Runtime**
-- Deployed with **EC2, RDS, S3, Secrets Manager**
+---
 
-#### **Clarity** — AI-Powered Personal Knowledge Base
-Upload documents → get **summaries, flashcards, and Q&A** via embeddings and retrieval.  
-- Modular **FastAPI** backend with **OpenAI embeddings + ChromaDB**
-- Integrated **LangChain** RAG pipelines
-- Clean UI for document management and knowledge search
+### 🌟 Tech Stack
 
-#### **Slack Clone (Full Stack)**
-Messaging platform with **JWT authentication**, team channels, and real-time features.  
-- Built with **React, Node.js/Express, and PostgreSQL**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white&animation=spin" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white&animation=spin" />
+</p>
+
+---
+
+### 🚀 Projects
+
+<div align="center">
+
+**FitAgent** — *AWS AI Agent Global Hackathon 2025*  
+<em>Full-stack fitness coaching platform generating personalized plans with agentic AI</em>  
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+</p>
+
+**Clarity** — *AI-Powered Personal Knowledge Base*  
+<em>Upload documents → summaries, flashcards, Q&A using embeddings + RAG</em>  
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=database&logoColor=white" />
+</p>
+
+**Slack Clone (Full Stack)**  
+<em>Real-time messaging platform with JWT authentication & team channels</em>  
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
@@ -55,8 +89,32 @@ Messaging platform with **JWT authentication**, team channels, and real-time fea
 ---
 
 ### 🔗 Connect With Me
-**Email:** akshayraj.jeripotula@gmail.com  
-**LinkedIn:** [profile](https://www.linkedin.com/in/akshayraj-jeripotula-a796b3190/)  
+<p align="center">
+  <a href="mailto:akshayraj.jeripotula@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajeripotula1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeripotula1&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeripotula1&theme=react-dark&hide_border=true" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Ajeripotula1&theme=darkhub&no-frame=true&column=6" alt="Trophies"/> -->
+</p>
+
+---
+
+### ✨ Philosophy
+**I build software that thinks so humans can do.**  
+Systems that reduce cognitive load, deliver intelligence, and scale seamlessly.
