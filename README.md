@@ -114,7 +114,3 @@ Software Engineer | Fullstack Development • AI Systems • Cloud
 </p>
 
 ---
-
-### ✨ Philosophy
-**I build software that thinks so humans can do.**  
-Systems that reduce cognitive load, deliver intelligence, and scale seamlessly.
