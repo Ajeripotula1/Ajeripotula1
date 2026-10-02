@@ -101,16 +101,4 @@ Software Engineer | Fullstack Development • AI Systems • Cloud
   </a>
 </p>
 
-
----
-
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajeripotula1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajeripotula1&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajeripotula1&theme=react-dark&hide_border=true" /> -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Ajeripotula1&theme=darkhub&no-frame=true&column=6" alt="Trophies"/> -->
-</p>
-
 ---
